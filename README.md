@@ -1,2 +1,1 @@
-# csharp-gamebar-widget
-C# GameBar Widget
+# C# GameBar Widget
